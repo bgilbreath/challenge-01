@@ -14,7 +14,7 @@ In this project, the code of a pre-existing website has been consolidated to fol
 
 ## Installation
 
-Project is a completed webpage, that can be visited via URL.
+Project is a completed webpage, that can be visited via URL, https://github.com/bgilbreath/challenge-01
 
 ## Usage
 
